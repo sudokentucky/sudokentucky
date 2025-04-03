@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hola, me llamo Keneth Lopez</h1>
-<h3 align="center">🎓 Estudiante de Ingeniería en Sistemas - Universidad de San Carlos de Guatemala</h3>
+<h3 align="center">Estudiante de Ingeniería en Sistemas - Universidad de San Carlos de Guatemala</h3>
 
 <p align="center">
   <a href="mailto:wilard.lz14@gmail.com?subject=Contacto%20desde%20GitHub&body=Hola%20Keneth," target="_blank">
@@ -19,7 +19,7 @@
 
 ---
 
-### 🛠️ Lenguajes y Herramientas:
+### Lenguajes y Herramientas:
 
 <p align="center">
   <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
@@ -57,11 +57,11 @@
 
 ---
 
-### 🚀 Proyectos Destacados:
+### Mis proyectos universitarios:
 
-- 🛒 [Sistema de Gestión de Compras - API RESTful](https://github.com/sudokentucky/-SBD1-P1_202100106.git) — API RESTful desarrollada con Python (Flask) y Oracle Database.
-- 🪤 [Golight - Parser](https://github.com/sudokentucky/OLC2_Proyecto1_202100106.git) — Implementacion de un Interprete basado en la sintaxis de golang (c#).
-- 📁 [Sistema de archivos ext2 y ext3](https://github.com/sudokentucky/MIA_2S_P1_202100106.git) - Implementacion de un sistema ext2-3 en golang.4
+- [Sistema de Gestión de Compras - API RESTful](https://github.com/sudokentucky/-SBD1-P1_202100106.git) — API RESTful desarrollada con Python (Flask) y Oracle Database.
+- [Golight - Parser](https://github.com/sudokentucky/OLC2_Proyecto1_202100106.git) — Implementacion de un Interprete basado en la sintaxis de golang (c#).
+- [Sistema de archivos ext2 y ext3](https://github.com/sudokentucky/MIA_2S_P1_202100106.git) - Implementacion de un sistema ext2-3 en golang.4
 - [ConjAnalyzer - Interprete](https://github.com/sudokentucky/OCL1_Proyecto1_202100106.git) - Implementacion de un analizador expresiones de conjuntos (Java).
 
 ---
