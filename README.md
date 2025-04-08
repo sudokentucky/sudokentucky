@@ -51,10 +51,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sudokentucky&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Top Langs" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sudokentucky&theme=dracula&hide_border=false" alt="GitHub Streak"/>
-</p>
-
 ---
 
 ### Mis proyectos universitarios:
